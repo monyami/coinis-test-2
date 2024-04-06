@@ -1,0 +1,21 @@
+title,city,location,beds_number,bathrooms,price,living_area,land_area,parking_places,distance_from_sea,new_construction,air_conditioning
+Prodajem Zemljište,Pula,Nema podataka,0,0,75000.0,0.0,321.0,0,2000,False,False
+Prodajem Kuću,Poreč,"Poreč, Hrvatska",2,0,430000.0,120.0,0.0,0,0,False,False
+Prodajem Stan-Apartman,Pula,"Pula, Hrvatska",1,1,250000.0,65.0,0.0,0,0,False,False
+Prodajem Kuću,Umag,Nema podataka,5,0,150000.0,150.0,992.0,0,0,False,False
+Prodajem Građevinsko Zemljište,Barban,"Barban, Hrvatska",0,0,150000.0,0.0,1300.0,0,0,False,False
+Prodajem Kuću,Umag,Nema podataka,5,4,850000.0,194.0,461.0,0,0,False,False
+Prodajem Kuću,Kanfanar,Nema podataka,0,0,650000.0,0.0,0.0,0,0,False,False
+Prodajem Kuću,Buje,Nema podataka,4,4,820000.0,220.0,8000.0,4,10000,False,True
+Prodajem Stan-Apartman,Pula,"Pula, Hrvatska",3,2,300000.0,118.0,0.0,0,0,False,False
+Prodajem Stan-Apartman,Poreč,"Poreč, Hrvatska",2,0,236000.0,65.0,0.0,0,0,False,False
+Prodajem Stan-Apartman,Pula,"Pula, Hrvatska",1,1,250000.0,69.0,0.0,0,0,False,False
+Prodajem Kuću,Labin,"Labin, Hrvatska",4,0,880000.0,305.0,0.0,0,0,False,False
+Prodajem Stan-Apartman,Medulin,"Medulin, Hrvatska",2,1,175100.0,60.0,0.0,0,0,False,False
+Prodajem Građevinsko Zemljište,Vodnjan,"Vodnjan,Croatia",0,0,130000.0,0.0,630.0,0,0,False,False
+Prodajem Kuću,Rovinj,"Rovinj, Hrvatska",4,0,950000.0,350.0,0.0,0,0,False,False
+Prodajem Stan-Apartman,Tar-Vabriga,Nema podataka,0,0,405000.0,0.0,0.0,0,0,False,False
+Prodajem Stan-Apartman,Umag,Nema podataka,4,2,510000.0,93.0,0.0,0,0,False,False
+Prodajem Kuću,Buje,Nema podataka,2,1,420000.0,90.0,9347.0,0,0,False,False
+Prodajem Kuću,Umag,Nema podataka,10,4,3000000.0,405.0,4034.0,0,0,False,False
+Prodajem Kuću,Buje,"Buje, Hrvatska",2,0,430000.0,193.0,0.0,0,0,False,False
